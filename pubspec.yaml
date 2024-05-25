@@ -1,6 +1,6 @@
 name: flex_box
 description: A Flutter package providing a flexible box layout widget that simplifies creating responsive UIs with optional width, height, color, and child parameters.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/rishabhsinghsatya/flex_box
 repository: https://github.com/rishabhsinghsatya/flex_box
 issue_tracker: https://github.com/rishabhsinghsatya/flex_box/issues
